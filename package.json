@@ -1,0 +1,7 @@
+{
+  "name": "youthLegacy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thisisandy/youthLegacy.git",
+  "license": "MIT"
+}
